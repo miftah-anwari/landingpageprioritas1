@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Manrope:wght@200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: 'poppins', sans-serif;
 }
 
 body{
@@ -152,7 +154,7 @@ button {
 .beli {
    display: block;
     width: 332px;
-    padding: 12px 121px;
+    padding: 12px 118px;
     border-radius: 10px;
     font-weight: 500;
     background-color: #4d6226;
@@ -160,7 +162,7 @@ button {
     text-decoration: none;
     transform: translateX(30px);
     position: relative;
-    left: -21px;
+    left: -35px;
     top: -15px;
 }
 
@@ -181,8 +183,8 @@ button {
 .product-list .card {
    margin-bottom: 10px;
     margin-left: 20px;
-    width: 386px;
-    height: 475px;
+    max-width: 380px;
+    max-height: 514px;
     padding: 35px 20px 0;
     border-radius: 12px;
     background: #fff;
@@ -190,15 +192,15 @@ button {
     min-height: 0;
 }
 .card .img-box {
-  width: 342px;
-    height: 280px;
+    max-width: 332px;
+    max-height: 298px;
     display: flex;
     justify-content: center;
     align-items: center;
     background: #f5f5f5;
-    border-radius: 8px;
+    border-radius: 10px;
     overflow: hidden;
-    transform: translate(2px, -17px);
+    transform: translate(0, -17px);
 }
 .product-info h3{
     padding-top: 27px;
@@ -230,7 +232,7 @@ h4.product-info {
     font-weight: 600;
     position: relative;
     top: -58px;
-    left: 41px;
+    left: 15px;
 }
 
 .price{
@@ -311,7 +313,7 @@ h4.product-info {
 
 .choose{
     width:100%;
-    padding:80px 8%;
+    padding:80px 10px;
     text-align:center;
 }
 
@@ -851,6 +853,9 @@ p.teleponlogo {
         flex-direction: column;
         align-items: center;
     }
+.shop-container .product-list {
+    flex-flow: column;
+}
 
     .product-list .card {
         max-width: 238px;
@@ -862,7 +867,7 @@ p.teleponlogo {
     .card .img-box {
         max-width: 209px;
         max-height: 187px;
-        transform: translate(-5px, -15px);
+        transform: translate(0, -15px);
     }
 
     .fotosuplement {
@@ -875,7 +880,7 @@ p.teleponlogo {
         transform: none;
         padding: 0;
     }
-
+    
     h4.product-info {
       font-size: 16px;
         position: relative;
@@ -898,9 +903,9 @@ p.teleponlogo {
        max-width: 209px;
         max-height: 34px;
         font-weight: 500;
-        padding: 10px 60px;
+        padding: 5px 55px;
         position: relative;
-        top: -7px;
+        top: -11px;
         left: -35px;
     }
 
@@ -1038,9 +1043,7 @@ p.teleponlogo {
     }
 
     .footer-about h3 {
-
         font-size: 25px;
-
     }
 
 
@@ -1118,5 +1121,4 @@ p.teleponlogo {
         width: 75%;
 
     }
-
-} 
+}

@@ -336,9 +336,9 @@ h4.product-info {
 .card-container{
     display:flex;
     justify-content:center;
-    gap:10px;
+    gap:15px;
     padding-top:25px;
-    flex-wrap:nowrap;
+    flex-wrap:wrap;
     flex-direction: row;
     align-items: stretch;
 }

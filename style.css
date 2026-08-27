@@ -759,6 +759,8 @@ p.teleponlogo {
 }
 
 .mobile-menu.active {
+   max-width: 425px;
+    max-height: 582.82px;
     right: 0;
 }
 

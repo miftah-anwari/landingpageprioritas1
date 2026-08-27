@@ -786,7 +786,7 @@ p.teleponlogo {
 .cls-btn {
     max-width: 240px;
     padding: 0 80px;
-    margin-left: -80px;
+    margin: -50px -85px 15px;
 }
 @media (max-width: 768px) {
 

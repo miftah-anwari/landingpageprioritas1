@@ -21,10 +21,10 @@ body{
     background-color: #fff;
 }
 
-.logo{
-    font-size: 34px;
-    font-weight: 700;
-    color: black;
+.clarity{
+ width: 100%;
+    position: relative;
+    left: -58px;
 }
 
 .menu{
@@ -55,8 +55,8 @@ body{
     background-image: url("header1.png");
     background-size: cover;
     background-position: center;
-
     padding: 80px;
+    margin-bottom: 80px;
 }
 
 .hero-text{
@@ -646,7 +646,7 @@ h4.product-info {
 }
 
 .footer-contact {
-    padding-top: 5px;
+    padding-top: 20px;
 }
 
 .contact-item {
@@ -781,6 +781,11 @@ p.teleponlogo {
     font-size: 14px;
     font-weight: 500;
 }
+.cls-btn {
+    width: 100%;
+    padding: 0 45px;
+    margin-left: -50px;
+}
 @media (max-width: 768px) {
 
 
@@ -788,6 +793,10 @@ p.teleponlogo {
  .navbar {
         height: 60px;
         padding: 0 20px;
+    }
+    .clarity {
+        position: relative;
+        left: -15px;
     }
 
     .logo {

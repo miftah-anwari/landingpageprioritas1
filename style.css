@@ -782,7 +782,7 @@ p.teleponlogo {
     font-weight: 500;
 }
 .cls-btn {
-    width: 100%;
+    max-width: 240px;
     padding: 0 80px;
     margin-left: -80px;
 }

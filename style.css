@@ -973,7 +973,7 @@ p.teleponlogo {
     .choose .card {
         max-width: 300px;
         padding: 20px;
-        margin-top: 10px;
+        margin: 10px -10px;
     }
 
     .icon {

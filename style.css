@@ -21,6 +21,13 @@ body{
     background-color: #fff;
 }
 
+.container {
+    width: 100%;
+    max-width: 1228px;
+    padding: 0 24px;
+    margin: 0 auto;
+}
+
 .clarity{
  width: 100%;
     position: relative;

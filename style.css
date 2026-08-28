@@ -62,7 +62,7 @@ body{
     background-image: url("header1.png");
     background-size: cover;
     background-position: center;
-    padding: 80px;
+    padding: 80px 0px;
     margin-bottom: 80px;
 }
 

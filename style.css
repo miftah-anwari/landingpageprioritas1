@@ -809,6 +809,7 @@ p.teleponlogo {
     height: 100%;
     background-color: #fff;
     padding: 24px;
+    gap: 24px;
     border-radius: 10px;
 }
 
@@ -818,6 +819,14 @@ p.teleponlogo {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.card-new .gambar img {
+    padding: 0;
+    margin-top: -24px;
+    margin-bottom: 37px;
+    max-width: 285px;
+    max-height: 285px;
 }
 
 @media (max-width: 768px) {

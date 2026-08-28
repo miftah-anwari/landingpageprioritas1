@@ -976,7 +976,7 @@ p.teleponlogo {
         left: 0;
         color: gray;
     }
-    .beli {
+    /* .beli {
        max-width: 209px;
         max-height: 34px;
         font-weight: 500;
@@ -984,7 +984,7 @@ p.teleponlogo {
         position: relative;
         top: -11px;
         left: -35px;
-    }
+    } */
 
     .target {
         width: 100%;

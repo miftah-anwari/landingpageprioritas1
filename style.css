@@ -613,9 +613,7 @@ h4.product-info {
 }
 
 .footer-container {
-    max-width: 1000px;
-
-    margin: 0 auto;
+ 
 
     display: grid;
 

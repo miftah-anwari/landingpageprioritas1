@@ -842,6 +842,18 @@ p.teleponlogo {
     justify-content: space-between;
 }
 
+.card-new .harga-container .info-capsul {
+    font-size: 14px;
+    line-height: 1;
+}
+
+.card-new .harga-container .info-harga {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+    line-height: 1;
+}
+
 @media (max-width: 768px) {
 
 

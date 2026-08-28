@@ -856,10 +856,9 @@ p.teleponlogo {
 
 
 .shoping {
-    width: 100%;
-    max-width: 1228px;
-    padding: 0 24px;
-    margin: 0 auto;
+   width: 33.333%;
+    padding: 0 10px;
+    margin-bottom: 20px;
 }
 section.shoping {
     display: grid;

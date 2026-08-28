@@ -1154,96 +1154,61 @@ section.shoping {
         transform: none;
     }
 
-
-
     .footer {
-
         padding: 40px 20px 0;
-
         display: flex;
-
         flex-direction: column;
-
     }
 
     .footer-about h3 {
         font-size: 25px;
     }
 
-
-
     .footer-container {
-
         grid-template-columns: 1fr;
-
         gap: 5px;
-
         text-align: center;
 
     }
 
     .footer-contact {
-
         padding-left: 100px;
-
     }
 
     .contact-item {
-
         transform: translateX(-29px);
-
     }
 
     span .teleponlogo {
-
         transform: translateX(9px);
-
     }
 
     p.teleponlogo {
-
         padding-left: 17px;
-
         font-size: 11px;
-
     }
 
     .contact-item p {
-
         font-size: 11px;
-
     }
 
     .social-media a {
-
         width: 22px;
-
         height: 22px;
-
     }
 
     .logomif {
-
         width: 17px;
-
         padding-left: 7px;
-
         transform: translateX(-4px);
-
     }
 
     .facebocklogo {
-
         width: 13px;
-
     }
 
-
-
     .mobile-menu {
-
         width: 75%;
-
     }
 }
 

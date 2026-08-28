@@ -883,35 +883,7 @@ p.teleponlogo {
         width: 75%;
     }
 
-    .hero {
-        padding: 70% 0;
-        text-align: center;
-        background-image: url(headermobile.png);
-        background-repeat: no-repeat;
-        min-height: auto;
-    }
-
-    .hero-text {
-        width: 100%;
-        position: relative;
-        top: -160px;
-    }
-
-    .hero-text h1 {
-        font-size: 25px;
-    }
-
-    .hero-text p {
-        width: 100%;
-        font-size: 11px;
-        line-height: 1.6;
-    }
-
-    .buttons {
-        justify-content: center;
-        flex-wrap: wrap;
-    }
-
+    
     .btn-dark,
     .btn-light {
         padding: 10px 24px;
@@ -1212,6 +1184,34 @@ p.teleponlogo {
 @media (max-width: 425px) { 
     .card-container .card-item {
         width: 100%;
+    }
+    .hero {
+        padding: 70% 0;
+        text-align: center;
+        background-image: url(headermobile.png);
+        background-repeat: no-repeat;
+        min-height: auto;
+    }
+
+    .hero-text {
+        width: 100%;
+        position: relative;
+        top: -160px;
+    }
+
+    .hero-text h1 {
+        font-size: 25px;
+    }
+
+    .hero-text p {
+        width: 100%;
+        font-size: 11px;
+        line-height: 1.6;
+    }
+
+    .buttons {
+        justify-content: center;
+        flex-wrap: wrap;
     }
 
 }

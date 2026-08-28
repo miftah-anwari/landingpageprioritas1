@@ -854,6 +854,20 @@ p.teleponlogo {
     line-height: 1;
 }
 
+
+.shoping {
+    width: 100%;
+    max-width: 1228px;
+    padding: 0 24px;
+    margin: 0 auto;
+}
+section.shoping {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 20px;
+}
+
 @media (max-width: 768px) {
 
 

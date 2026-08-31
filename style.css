@@ -668,7 +668,7 @@ h4.product-info {
 .contact-item .lock-email {
     width: 25px;
     font-size: 13px;
-    transform: translate(69px, 14px);
+    transform: translate(38px, 15px);
 }
 .teleponlogo {
     width: 17px;
@@ -1197,6 +1197,12 @@ section.shoping {
         font-size: 11px;
         padding-left: 37px;
     }
+    
+    .contact-item .lock-email {
+    width: 25px;
+    font-size: 13px;
+    transform: translate(69px, 14px);
+}
 
     .social-media a {
         width: 22px;

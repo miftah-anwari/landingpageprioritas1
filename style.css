@@ -689,7 +689,8 @@ h4.product-info {
 }
 p.teleponlogo {
     white-space: nowrap;
-   margin-left: -47px;
+    margin-left: -47px;
+    margin-top: 7px;
 }
 img.teleponlogo-img {
     width: 17px;

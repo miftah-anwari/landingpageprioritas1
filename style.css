@@ -1195,9 +1195,9 @@ section.shoping {
         padding-left: 17px;
         font-size: 11px;
     }
-    .teleponlogo-img {
-        margin-left: 10px;
-    }
+    img.teleponlogo-img {
+    transform: translate(-28px, -2px);
+}
     p.teleponlogo {
     margin-left: -120px;
 }

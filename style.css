@@ -1237,6 +1237,9 @@ section.shoping {
     .card-container .card-item {
         width: 79.333%;
     }
+    .card1 .gambar img {
+        max-width: 233px;
+    }
     .hero {
         padding: 70% 0;
         text-align: center;

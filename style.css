@@ -1184,7 +1184,7 @@ section.shoping {
         transform: translateX(-29px);
     }
 
-  .lock-email .teleponlogo {
+  .lock-email {
         transform: translateX(9px);
     }
 
@@ -1197,7 +1197,7 @@ section.shoping {
         font-size: 11px;
         padding-left: 37px;
     }
-    
+
     .contact-item .lock-email {
     width: 25px;
     font-size: 13px;

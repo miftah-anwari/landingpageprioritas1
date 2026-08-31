@@ -1251,6 +1251,9 @@ section.shoping {
    .card1 .content h3 {
     font-size: 14px;
    }
+   .card1 .harga-container .info-capsul {
+    font-size: 13px;
+   }
     .hero {
         padding: 70% 0;
         text-align: center;

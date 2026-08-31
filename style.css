@@ -1246,4 +1246,8 @@ section.shoping {
         flex-wrap: wrap;
     }
 
+        .footer-contact {
+        padding-left: 125px;
+    }
+
 }

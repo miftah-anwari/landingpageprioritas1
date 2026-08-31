@@ -1242,6 +1242,9 @@ section.shoping {
     .card1 .gambar img {
         max-width: 233px;
     }
+    a.beli {
+    padding: 9px 0 8px;
+}
     .hero {
         padding: 70% 0;
         text-align: center;

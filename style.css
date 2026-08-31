@@ -1205,7 +1205,7 @@ section.shoping {
     .logomif {
         width: 17px;
         padding-left: 7px;
-        transform: translateX(-4px);
+        transform: translateX (-3px);
     }
 
     .facebocklogo {

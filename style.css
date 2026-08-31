@@ -1245,7 +1245,9 @@ section.shoping {
     a.beli {
     padding: 9px 0 8px;
    }
-   
+   .card1 .harga-container .info-harga {
+    font-size: 17px;
+   }
     .hero {
         padding: 70% 0;
         text-align: center;

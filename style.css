@@ -1062,6 +1062,7 @@ section.shoping {
 
     .card-container {
         justify-content: center;
+        margin-bottom: 20px;
     }
 
     .card-container .card-item {

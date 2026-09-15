@@ -517,15 +517,14 @@ h4.product-info {
     margin-bottom: 5px;
 
     color: white;
-    font-size: 27px;
+    font-size: 40px;
     font-weight: 700;
 }
 
 .newsletter-content p {
     margin-bottom: 18px;
-
     color: white;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 .newsletter-form {

@@ -170,6 +170,10 @@ button {
    text-decoration: none;
 }
 
+a.beli:hover {
+    background-color: #445722;
+}
+
 .product-info h4 {
     padding-left: 180px;
     padding-bottom: 10px;

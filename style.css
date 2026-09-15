@@ -1233,7 +1233,7 @@ section.shoping {
     font-size: 14px;
    }
    .card1 .harga-container .info-capsul {
-    font-size: 13px;
+    font-size: 12px;
    }
     .hero {
         padding: 70% 0;
@@ -1259,6 +1259,17 @@ section.shoping {
         line-height: 1.6;
     }
 
+    h2 {
+        font-size: 28px;
+    }
+
+    p.subtitle {
+    font-size: 12px;
+}
+
+.title h2 {
+    font-size: 28px;
+
     .buttons {
         justify-content: center;
         flex-wrap: wrap;
@@ -1268,4 +1279,26 @@ section.shoping {
     width: 31%;
 }
 
+}
+
+.overlay h3 {
+        font-size: 20px;
+}
+
+.overlay p {
+        font-size: 11px;
+        padding: 0 54px;
+    }
+
+    .choose h1, .testimonial h1 {
+        font-size: 28px;
+    }
+
+    .mif {
+        font-size: 18px;
+    }
+
+        .choose .card p {
+        font-size: 12px;
+    }
 }

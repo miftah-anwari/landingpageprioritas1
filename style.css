@@ -877,7 +877,6 @@ section.shoping {
     flex-direction: column;
     width: 100%;
     max-width: 380px;
-    height: 100%;
     background-color: #fff;
     padding: 24px;
     gap: 24px;

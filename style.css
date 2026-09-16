@@ -1307,3 +1307,14 @@ section.shoping {
        justify-content: center;
     }
 }
+@media (hover: hover) {
+  .btn-solid:hover {
+      background-color:  rgb(85, 109, 45);
+  }
+}
+
+.btn-solid:focus,
+.btn-solid:focus-visible {
+  background-color: #445722;
+  outline: none;
+}

@@ -1290,6 +1290,10 @@ section.shoping {
         padding: 0 54px;
     }
 
+        img.footer-logo {
+        width: 30%;
+    }
+    
     .choose h1, .testimonial h1 {
         font-size: 28px;
     }

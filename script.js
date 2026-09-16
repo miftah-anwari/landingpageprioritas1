@@ -23,15 +23,3 @@ document.addEventListener("click", function (event) {
     }
 
 });
-// Pilih semua tombol kamu
-const buttons = document.querySelectorAll('.beli .btn-light .btn-dark'); 
-buttons.forEach(button => {
-  button.addEventListener('click', function() {
-   
-    this.style.pointerEvents = 'none';
-    
-    setTimeout(() => {
-      this.style.pointerEvents = 'auto';
-    }, 100);
-  });
-});

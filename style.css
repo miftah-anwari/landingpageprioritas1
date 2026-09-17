@@ -1130,9 +1130,7 @@ section.shoping {
     }
 
     .newsletter-form {
-        width: 100%;
-        max-width: 380px;
-        transform: none;
+        width: 50%;
     }
 
     .footer {

@@ -926,6 +926,7 @@ section.shoping {
         padding: 0 20px;
     }
     .clarity {
+        width: 100%;
         position: relative;
         left: -15px;
     }

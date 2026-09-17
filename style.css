@@ -533,17 +533,13 @@ h4.product-info {
 }
 
 .newsletter-form {
-    width: 382px;
-    height: 47px;
-
+   width: 37%;
+    height: 50px;
     margin: 0 auto;
-
     background-color: white;
     border-radius: 6px;
-
     display: flex;
     align-items: center;
-
     padding: 5px;
 }
 

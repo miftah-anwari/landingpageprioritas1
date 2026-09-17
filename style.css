@@ -554,19 +554,16 @@ h4.product-info {
 
 .email-icon {
     margin-right: 10px;
-
     color: #777;
-    font-size: 12px;
-    transform: translate(35px, 13px);
+    font-size: 14px;
+    transform: translate(35px, 15px);
 }
 
 .email-input input {
     width: 100%;
-
     border: none;
     outline: none;
-
-    font-size: 9px;
+    font-size: 14px;
     color: #555;
 }
 

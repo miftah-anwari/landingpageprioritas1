@@ -575,18 +575,14 @@ h4.product-info {
 }
 
 .newsletter-form button {
-    width: 92px;
-    height: 31px;
-
+    width: 25%;
+    height: 87%;
     border: none;
     border-radius: 6px;
-
     background-color: #3b5520;
     color: white;
-
     font-size: 10px;
     font-weight: 600;
-
     cursor: pointer;
     padding: 10px;
     position: relative;

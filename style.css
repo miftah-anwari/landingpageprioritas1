@@ -683,6 +683,7 @@ img.footer-logo {
 .contact-item p {
     margin: 0;
     font-size: 14px;
+    color: white;
 }
 p.teleponlogo {
     white-space: nowrap;

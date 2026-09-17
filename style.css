@@ -1300,8 +1300,12 @@ section.shoping {
         font-size: 12px;
     }
 
+    .newsletter-form button {
+    width: 30%;
+    }
+
     .email-input input {
-      font-size: 11px;  
+      font-size: 10px;  
     }
 
     .buttons {

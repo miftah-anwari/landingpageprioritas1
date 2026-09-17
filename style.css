@@ -29,9 +29,11 @@ body{
 }
 
 .clarity{
- width: 100%;
-    position: relative;
-    left: -58px;
+    width: 200%;
+    display: flex;
+    justify-content: center;
+    margin-left: -27px;
+    align-items: center;
 }
 
 .menu{

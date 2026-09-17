@@ -1300,6 +1300,10 @@ section.shoping {
         font-size: 12px;
     }
 
+    .email-input input {
+      font-size: 11px;  
+    }
+
     .buttons {
        justify-content: center;
        justify-content: center;

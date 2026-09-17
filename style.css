@@ -925,11 +925,13 @@ section.shoping {
         height: 60px;
         padding: 0 20px;
     }
-    .clarity {
-        width: 90%;
-        position: relative;
-        left: -15px;
-    }
+   .clarity {
+        width: 139%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        padding-left: 40px;
+   }    
 
     .logo {
         font-size: 30px;

@@ -720,14 +720,9 @@ img.teleponlogo-img {
 }
 
 .copyright {
-    max-width: 1000px;
-
     margin: 30px auto 0;
-
     padding: 14px 0;
-
     border-top: 1px solid rgba(255, 255, 255, 0.2);
-
     text-align: center;
 }
 

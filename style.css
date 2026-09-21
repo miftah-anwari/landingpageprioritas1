@@ -770,14 +770,12 @@ img.teleponlogo-img {
 
 .close-btn {
     align-self: flex-end;
-
     border: none;
     background: none;
-
     font-size: 25px;
     color: #aaa;
-
     cursor: pointer;
+    margin: -10px 130px;
 }
 
 .mobile-menu a {

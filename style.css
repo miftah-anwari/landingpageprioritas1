@@ -948,6 +948,7 @@ section.shoping {
 
     .menu-btn {
         display: block;
+        margin-top: -10px;
     }
 
     .mobile-menu {

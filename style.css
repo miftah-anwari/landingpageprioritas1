@@ -1210,6 +1210,10 @@ section.shoping {
 
 
 @media (max-width: 425px) { 
+
+    .clarity {
+        width: 40%;
+    }
     .card-container .card-item {
        width: 79.333%;
         max-height: 410px;

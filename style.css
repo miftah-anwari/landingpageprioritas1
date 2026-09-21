@@ -928,6 +928,9 @@ section.shoping {
         text-align: center;
         padding-left: 40px;
    }    
+   .cls-btn {
+    margin: -20px -81px 20px;
+   }
 
     .logo {
         font-size: 30px;

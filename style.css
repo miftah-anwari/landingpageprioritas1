@@ -783,9 +783,10 @@ img.teleponlogo-img {
 .mobile-menu a {
     text-decoration: none;
     color: #385323;
-
     font-size: 14px;
     font-weight: 500;
+    display: flex;
+    margin-bottom: 15px;
 }
 .cls-btn {
     max-width: 240px;

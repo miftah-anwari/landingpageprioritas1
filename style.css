@@ -942,7 +942,7 @@ section.shoping {
         font-size: 30px;
     }
 
-    .menu {
+     .menu {
         display: none;
     }
 
@@ -951,8 +951,9 @@ section.shoping {
     }
 
     .mobile-menu {
-        width: 75%;
+        display: flex;
     }
+
 
     
     .btn-dark,

@@ -767,6 +767,7 @@ img.teleponlogo-img {
    width: 60%;
     height: 82%;
     right: 0;
+    gap: 10px;
 }
 
 .close-btn {

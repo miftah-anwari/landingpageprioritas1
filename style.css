@@ -928,11 +928,11 @@ section.shoping {
     }
 
    .clarity {
-        width: 150%;
         display: flex;
         justify-content: center;
         text-align: center;
-        padding-left: 40px;
+      margin-left: -25px;
+        margin-top: -10px;
    }    
    .cls-btn {
     margin: -20px -81px 20px;

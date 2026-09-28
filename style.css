@@ -62,7 +62,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("header1.png");
+    background-image: url("image/header1.png");
     background-size: cover;
     background-position: center;
     padding: 80px 0px;
@@ -277,11 +277,11 @@ h4.product-info {
 }
 
 .young{
-    background-image:url(Mask\ Group1.png);
+    background-image:url(image/Mask\ Group1.png);
 }
 
 .elderly{
-    background-image:url(Mask\ Group2.png);
+    background-image:url(image/Mask\ Group2.png);
 }
 
 .overlay{
@@ -385,23 +385,21 @@ h4.product-info {
     font-size:15px;
 }
 .icon img {
-    width: 35px;
-    height: 100px;
-    object-fit: contain;
-    padding-top: 2px;
-    padding-left: 2px;
-
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -5px;
 }
 .icon {
     background: #4d6226;
     border-radius: 100%;
-    width: 70px;
+    width: 23%;
     height: 70px;
     margin: 0 auto -3px;
     display: flex;
     justify-content: center;
     align-items: center;
-    transform: translateY(23px);
 }
 
 .testimonial{
@@ -481,15 +479,12 @@ h4.product-info {
     position: relative;
     width: 100%;
     height: 215px;
-
-    background-image: url("header1 (1).png");
+    background-image: url("image/header1 (1).png");
     background-size: cover;
     background-position: center;
-
     display: flex;
     justify-content: center;
     align-items: center;
-
     overflow: hidden;
 }
 
@@ -497,11 +492,9 @@ h4.product-info {
     position: absolute;
     top: 0;
     left: 0;
-
     width: 100%;
     height: 100%;
-
-    background-image: url("zaitun.png");
+    background-image: url("image/zaitun.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -658,7 +651,6 @@ img.footer-logo {
 .contact-item {
     display: flex;
     align-items: center;
-
     margin-bottom: 13px;
 }
 
@@ -692,8 +684,8 @@ p.teleponlogo {
     margin-top: 7px;
 }
 img.teleponlogo-img {
-    width: 17px;
-    margin: -19px 30px;
+    width: 25px;
+    margin: -22px 25px;
 }
 .social-media {
     display: flex;
@@ -1114,7 +1106,7 @@ section.shoping {
     }
 
     .newsletter-overlay {
-        background-image: url(zaitunmobile.png);
+        background-image: url(image/zaitunmobile.png);
         background-repeat: no-repeat;
         padding: 40px 20px;
     }
@@ -1244,7 +1236,7 @@ section.shoping {
     .hero {
         padding: 70% 0;
         text-align: center;
-        background-image: url(headermobile.png);
+        background-image: url(image/headermobile.png);
         background-repeat: no-repeat;
         min-height: auto;
     }
